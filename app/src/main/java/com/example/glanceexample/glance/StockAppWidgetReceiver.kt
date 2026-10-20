@@ -1,9 +1,7 @@
 package com.example.glanceexample.glance
 
-import StockAppWidget
 import android.content.Context
 import androidx.glance.appwidget.GlanceAppWidgetReceiver
-import com.example.glanceexample.glance.PriceDataRepo
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
